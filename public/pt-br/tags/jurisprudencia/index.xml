@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>jurisprudencia on Matheus Chimelli</title>
+    <link>https://examplesite.com/pt-br/tags/jurisprudencia/</link>
+    <description>Recent content in jurisprudencia on Matheus Chimelli</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Nov 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/pt-br/tags/jurisprudencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Engenharia Reversa e Outras Formas de Investigação Tecnológica</title>
+      <link>https://examplesite.com/pt-br/posts/engenharia-reversa-e-formas-investigacao/</link>
+      <pubDate>Fri, 04 Nov 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/pt-br/posts/engenharia-reversa-e-formas-investigacao/</guid>
+      <description>PDF do artigo
+Engenharia Reversa e Outras Formas de Investigação Tecnológica
+Reverse Engineering and Other Forms of Technological Research
+Matheus Chimelli[1]
+RESUMO
+Diante das transformações da sociedade e com o surgimento de novas tecnologias, a engenharia reversa acabou passando por transformações para se adaptar às inovações da sociedade. O presente artigo busca de forma objetiva contextualizar a engenharia reversa realizando uma breve retrospectiva histórica desde sua utilidade no período da segunda guerra mundial até sua aplicação no campo tecnológico em especial na área de softwares.</description>
+    </item>
+    
+  </channel>
+</rss>

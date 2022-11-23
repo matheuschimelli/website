@@ -1,0 +1,12 @@
+[submodule "themes/kaslaanka"]
+	path = themes/kaslaanka
+	url = https://github.com/M1cR0xf7/kaslaanka.git
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matheus Chimelli</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on Matheus Chimelli</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://examplesite.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/about/</guid>
+      <description>Hello. I&amp;rsquo;m Matheus Chimelli, Law Student at School of Law of Pontifícia Universidade Católica do Paraná (Brazil), currently in the last year. I&amp;rsquo;m have been interested in human rights and eletronic law since the beggining of the course. I got approved in the OAB exam (BAR equivalent in Brazil) before i finish my graduation. Until now, beside my regular classes i had been in the following additional ones:
+Eletronic Law Informatic and Law Protection Statutes for People Emotional Inteligence and Decision Making LIBRAS (Brazilain Sign Language) I also have been into the following necessary interships for the Law School (note: the following list contains the internships that I choose to do in my previous semesters)</description>
+    </item>
+    
+    
+  </channel>
+</rss>

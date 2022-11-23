@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Matheus Chimelli</title>
+    <link>https://examplesite.com/pt-br/posts/</link>
+    <description>Recent content in Posts on Matheus Chimelli</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Nov 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Engenharia Reversa e Outras Formas de Investigação Tecnológica</title>
+      <link>https://examplesite.com/pt-br/posts/engenharia-reversa-e-formas-investigacao/</link>
+      <pubDate>Fri, 04 Nov 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/pt-br/posts/engenharia-reversa-e-formas-investigacao/</guid>
+      <description>PDF do artigo
+Engenharia Reversa e Outras Formas de Investigação Tecnológica
+Reverse Engineering and Other Forms of Technological Research
+Matheus Chimelli[1]
+RESUMO
+Diante das transformações da sociedade e com o surgimento de novas tecnologias, a engenharia reversa acabou passando por transformações para se adaptar às inovações da sociedade. O presente artigo busca de forma objetiva contextualizar a engenharia reversa realizando uma breve retrospectiva histórica desde sua utilidade no período da segunda guerra mundial até sua aplicação no campo tecnológico em especial na área de softwares.</description>
+    </item>
+    
+    <item>
+      <title>A regulamentação de criptoativos no Brasil - Análise do PL 3.835/2019</title>
+      <link>https://examplesite.com/pt-br/posts/analise-pl-3.835-2019/</link>
+      <pubDate>Wed, 20 Oct 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/pt-br/posts/analise-pl-3.835-2019/</guid>
+      <description>O PL 3.825/2019, apresentado pelo Senador Flávio Arns (REDE/PR) surge como uma tentativa de regulamentação dos criptoativos dentro do Brasil, em especial em relação às exchanges (corretoras de criptoativos). O Projeto de Lei é de certa forma ambicioso ao tentar regulamentar de forma centralizada os criptoativos que, por sua natureza são descentralizados. Entretanto, ainda assim, o projeto de lei ora apresentado pelo Senador Arns é uma tentativa plausível de regulamentação e fomentação dos criptoativos dentro do mercado brasileiro.</description>
+    </item>
+    
+  </channel>
+</rss>
